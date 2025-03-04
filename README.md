@@ -150,7 +150,8 @@ To get things up and running just follow these steps:
 
 11. To Stop T-Pot press: `CTRL-C` (it if was running in the foreground) and / or `docker compose down -v` to stop T-Pot entirely.
 
-**Update T-Pot:**
+<a name="update-script"></a>
+**Update Script:**
 T-Pot releases are offered through GitHub and can be pulled using:
 ### Update Script 🔄
 ```
